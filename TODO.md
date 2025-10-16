@@ -1,3 +1,4 @@
 # TODOs
 
-- [ ] Add your first task here.
+- [ ] Add routine view.
+- [ ] Add routine edit support.
