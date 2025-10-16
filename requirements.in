@@ -1,0 +1,7 @@
+pip-tools
+
+fuzzywuzzy
+numpy
+openpyxl
+pandas
+pendulum
