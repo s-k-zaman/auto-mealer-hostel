@@ -3,4 +3,9 @@ venv/
 poetry.lock
 pyproject.toml
 
+test.py
+test.txt
+
 meal\ sheets/
+khairul-june-meal.xlsx
+boarders.txt
