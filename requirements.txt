@@ -12,6 +12,8 @@ et-xmlfile==2.0.0
     # via openpyxl
 fuzzywuzzy==0.18.0
     # via -r requirements.in
+levenshtein==0.27.1
+    # via python-levenshtein
 numpy==2.2.6
     # via
     #   -r requirements.in
@@ -34,8 +36,12 @@ python-dateutil==2.9.0.post0
     # via
     #   pandas
     #   pendulum
+python-levenshtein==0.27.1
+    # via -r requirements.in
 pytz==2025.2
     # via pandas
+rapidfuzz==3.14.1
+    # via levenshtein
 six==1.17.0
     # via python-dateutil
 tomli==2.3.0

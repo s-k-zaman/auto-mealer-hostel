@@ -1,4 +1,4 @@
-workbook_name = "khairul-june-meal.xlsx"
+workbook_name = "hostel-meals.xlsx"
 meal_count_sheet_name = "meal_counts"
 marketing_sheet_name = "marketings"
 establishment_sheet_name = "establishment"
